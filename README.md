@@ -3,7 +3,7 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>History and Modern Trends in Version Control</title>
+History and Modern Trends in Version Control</title>
 </head>
 <body>
   <nav>
